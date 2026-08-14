@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "SOHAM_BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "baal-i3uS.aternos.me",
-    "port": 31783,
+    "ip": "BestFriendsSmp12345.aternos.me",
+    "port": 55009,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -31,9 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+      
+    "i was created by OG 43 !!"
       ]
     },
     "chat-log": true,
